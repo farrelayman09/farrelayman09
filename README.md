@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farrelayman09
 - 👀 I’m interested in Software Engineering
-- 📫 How to reach me: [Farrel Ayman Abisatyo](mailto:farrel.ayman09@gmail.com?)
+- 📫 E-mail: [Farrel Ayman Abisatyo](mailto:farrel.ayman09@gmail.com?)
 
 <!---
 farrelayman09/farrelayman09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
